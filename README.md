@@ -57,7 +57,7 @@ Also, getting more comfortable with forms is my next goal, that's why I am plann
 
 ## Author
 
-- Website - [Add your name here](https://www.irbaine.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/irbaine)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Irbaine](https://www.irbaine.com)
+- Frontend Mentor - [@Irbaine](https://www.frontendmentor.io/profile/irbaine)
+- Twitter - [@Amineirb](https://twitter.com/amineirb)
 
